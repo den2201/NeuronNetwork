@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28902.138
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neyros", "Neyros.csproj", "{896AA262-3E92-4605-A691-D0FFD96D876C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeyronNetworks", "NeyronNetworks.csproj", "{896AA262-3E92-4605-A691-D0FFD96D876C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
