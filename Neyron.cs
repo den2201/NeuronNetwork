@@ -64,6 +64,14 @@ namespace Neyros
             var result = 1.0 / (1.0 + Math.Pow(Math.E, -x));
             return result;
         }
+        public void SendNeuronMaxWeight(params double[] weights)
+        {
+            for (int i = 0; i < weights.Length; i++)
+            {
+                Weights[i] = weights[i];
+            }
+
+        }
 
     }
 }
